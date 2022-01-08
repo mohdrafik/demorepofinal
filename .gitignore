@@ -1,3 +1,4 @@
-*.log
+error.log
 dir1/
-
+error1.log
+error2.log
