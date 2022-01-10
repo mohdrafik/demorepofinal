@@ -1,1 +1,2 @@
 hi this is text file.
+now I am in C1
