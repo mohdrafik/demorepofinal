@@ -1,3 +1,4 @@
 hi this is text file.
-now I am in C1
-now I am in C2 ?????????  this is in c6 branch can see!! good look
+
+now I am in C1  ????? this is good in develope bracnch c7!
+
